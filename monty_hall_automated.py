@@ -55,5 +55,6 @@ for j in range(1000):
 changed_win_ratio = changed_win/(changed_win + changed_not_win)
 not_changed_win_ratio = not_changed_win/(not_changed_win + not_changed_not_win)
 
-print("Success rate when the decision is changed: ", changed_win_ratio)
-print("Success rate when the decision is NOT changed: ", not_changed_win_ratio)
+print("1000 iteration were made and the results are as follows: \n")
+print("Success rate when the decision is     CHANGED: %", round(changed_win_ratio,2)*100)
+print("Success rate when the decision is NOT CHANGED: %", round(not_changed_win_ratio,2)*100)

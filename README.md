@@ -1,6 +1,6 @@
 # Monty Hall Problemi
 
-Monty Hall problemi, Amerikan TV yarışma programı Let's Make a Deal'a dayanan bir olasılık bulmacasıdır. Problem adını, yarışmanın sunucusu olan Monty Hall'dan alır. 
+Monty Hall problemi, Amerikan TV yarışma programı Let's Make a Deal'a dayanan bir olasılık bulmacasıdır. Problem, adını yarışmanın sunucusu olan Monty Hall'dan alır. 
 
 Problemi temel olarak şu soru oluşturmaktadır: "Bir yarışma programında olduğunuzu ve üç kapıdan birini seçme hakkınız olduğunu varsayalım. Kapılardan birinin ardında bir araba, diğerlerinin ardında ise birer keçi var. Kapılardan birini seçiyorsunuz ve kapıların ardında ne olduğunu bilen sunucu, diğer kapılardan ardında keçi olan kapıyı açıyor. Daha sonra size soruyor: "Kapınızı diğer kapı ile değiştirmek ister misiniz?" Seçiminizi değiştirmek sizin yararınıza mıdır?"
 
